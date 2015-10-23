@@ -1,0 +1,28 @@
+{
+  "name": "qix",
+  "description": "qix",
+  "dependencies": {},
+  "devDependencies": {
+    "requirejs": ""
+  },
+  "authors": [
+    "alec <alec@example.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/aleclofabbro/Qix",
+  "_release": "450e30e22a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "450e30e22a6b3c598a528a1b1a098c958a172aa2"
+  },
+  "_source": "https://github.com/aleclofabbro/Qix.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/aleclofabbro/Qix.git"
+}

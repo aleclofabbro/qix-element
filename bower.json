@@ -1,0 +1,23 @@
+{
+  "name": "qix-element",
+  "description": "",
+  "devDependencies": {
+    "requirejs": "",
+    "qix": "https://github.com/aleclofabbro/Qix.git"
+  },
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "authors": [
+    "aleclofabbro <alessandro.giansanti@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

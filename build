@@ -1,0 +1,5 @@
+#/bin/bash
+rm -rf dist
+mkdir dist
+cp src/qix-element.js dist/
+uglifyjs src/qix-element.js -m --source-map dist/qix-element.js.map --source-map-root qix.js > dist/qix-element.min.js 
