@@ -1,13 +1,15 @@
 {
   "name": "qix",
   "description": "qix",
-  "dependencies": {
-  },
   "devDependencies": {
-    "requirejs": ""
+    "requirejs": "",
+    "qix": "https://github.com/aleclofabbro/Qix.git"
   },
   "authors": [
-    "alec <alec@example.com>"
+    "aleclofabbro <alessandro.giansanti@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
   ],
   "ignore": [
     "**/.*",

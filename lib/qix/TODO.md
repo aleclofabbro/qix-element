@@ -1,5 +1,6 @@
 #TODO
 
++ `qix.control(elem, name, controller/setAttribute/path)` usare `make_ctrl_def` e `bind_controller`
 + ~~prova a trasformare i `forEach` in `reduce`~~
 + ~~testare e capire bene come giocano i `require()` local (relativo al component-path) e/o global .. (ora sono solo global)~~
 + ~~ridurre in fn + semplici `bind_controllers`~~
