@@ -19,7 +19,7 @@
   var html_setter = safe_string_prop_setter.bind(null, 'innerHTML');
   var text_setter = safe_string_prop_setter.bind(null, 'innerText');
 
-  define('qix/elem', function(require, exports, module) {
+  define('qix-elem', function(require, exports, module) {
     //fns
     exports.html_setter = html_setter;
     exports.text_setter = text_setter;

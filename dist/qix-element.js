@@ -1,6 +1,6 @@
 (function() {
   'use strict';
-  define('qix/elem', function(require, exports, module) {
+  define('qix-elem', function(require, exports, module) {
     function id(v) {
       return v;
     };
